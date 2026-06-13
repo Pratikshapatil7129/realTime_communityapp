@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Communication App",
+  "description": "A secure, end-to-end encrypted video conferencing and collaboration tool featuring multi-user WebRTC video calls, interactive whiteboard, file sharing, and live messaging.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
